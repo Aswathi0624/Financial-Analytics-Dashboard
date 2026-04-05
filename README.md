@@ -164,5 +164,14 @@ The dataset includes multi-dimensional business and financial attributes:
 
 ## Screnshots
 
-<img width="1392" height="774" alt="Screenshot 2026-03-25 200525" src="https://github.com/user-attachments/assets/3874bb78-5d80-43de-93c1-5e5e5af335a4" />
+### 1.Budget Analysis
+<img width="1028" height="582" alt="Budget analysis" src="https://github.com/user-attachments/assets/23a7bb2d-3ff2-498a-9270-6eeb504a5821" />
+
+###  2.Financial Analysis
+<img width="1028" height="598" alt="Financial analysis" src="https://github.com/user-attachments/assets/4f09875d-5c5b-4355-908d-06be15f6c729" />
+
+### 3.Financial Discipline
+<img width="1028" height="596" alt="Financial discipline" src="https://github.com/user-attachments/assets/6037844d-ece6-4199-bad5-dc38f06223e6" />
+
+
 
