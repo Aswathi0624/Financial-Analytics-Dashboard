@@ -162,7 +162,7 @@ The dataset includes multi-dimensional business and financial attributes:
 - Revenue peaks during specific months (seasonality)
 - Budget variance highlights overspending areas
 
-## Screnshots
+## Screenshots
 
 ### 1.Budget Analysis
 <img width="1028" height="582" alt="Budget analysis" src="https://github.com/user-attachments/assets/23a7bb2d-3ff2-498a-9270-6eeb504a5821" />
