@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a multi-page interactive Power BI dashboard designed to analyze and monitor an organization's financial performance, budgeting efficiency, and revenue trends.
+This project is a multi-page interactive Power BI dashboard designed to analyze and monitor financial performance, budgeting efficiency, and revenue trends.
 The solution integrates multiple analytical views into a single report with seamless navigation, enabling users to explore insights from different financial perspectives.
 
 ## Business Problem
