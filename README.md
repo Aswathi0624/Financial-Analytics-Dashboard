@@ -161,3 +161,8 @@ The dataset includes multi-dimensional business and financial attributes:
 - Some categories show negative profit, indicating inefficiencies
 - Revenue peaks during specific months (seasonality)
 - Budget variance highlights overspending areas
+
+## Screnshots
+
+<img width="1392" height="774" alt="Screenshot 2026-03-25 200525" src="https://github.com/user-attachments/assets/3874bb78-5d80-43de-93c1-5e5e5af335a4" />
+
