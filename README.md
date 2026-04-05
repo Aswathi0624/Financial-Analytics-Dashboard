@@ -78,7 +78,7 @@ Monitor financial discipline and operational efficiency.
 - Segment contribution to revenue
 - Budget deviation patterns
 
-## Advanced Slicers & Interactivity
+## Slicers & Interactivity
 
 ### Slicers (Across Pages)
 
@@ -108,10 +108,10 @@ Monitor financial discipline and operational efficiency.
 The dataset includes multi-dimensional business and financial attributes:
 
 #### Transaction Data
--Row ID
--Order ID
--Order Date
--Date Key
+- Row ID
+- Order ID
+- Order Date
+- Date Key
 #### Customer Information
 - Contact Name
 - Customer
@@ -152,7 +152,7 @@ The dataset includes multi-dimensional business and financial attributes:
 
 - **Power BI** :	Dashboard Development
 - **DAX** : Calculations & Metrics
-- ** **Power Query**	:  Data Cleaning & Transformation
+- **Power Query**	:  Data Cleaning & Transformation
 - **Excel/CSV** : Data Source
 
 ## Key Insights from Dashboard
