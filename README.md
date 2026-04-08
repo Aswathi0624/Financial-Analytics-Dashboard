@@ -5,17 +5,14 @@
 This project is a multi-page interactive Power BI dashboard designed to analyze and monitor financial performance, budgeting efficiency, and revenue trends.
 The solution integrates multiple analytical views into a single report with seamless navigation, enabling users to explore insights from different financial perspectives.
 
-## Business Problem
+## Objectives
+- Track Total Revenue, Expenses, and Budget
+- Evaluate Budget Utilization & Variance
+- Identify high-performing categories and segments
+- Provide data-driven financial insights
+- Improve financial planning and discipline
 
-Organizations often struggle with:
-
-- Lack of visibility into budget vs actual spending
-- Difficulty tracking financial performance across departments
-- Poor identification of profitability trends
-- Inefficient monitoring of customer and regional contributions
-This dashboard solves these challenges by providing a centralized financial intelligence system.
-
-## Solution Approach
+## Approach
 
 #### Data Processing
 - Cleaned and transformed raw dataset using Power BI Power Query
@@ -161,6 +158,13 @@ The dataset includes multi-dimensional business and financial attributes:
 - Some categories show negative profit, indicating inefficiencies
 - Revenue peaks during specific months (seasonality)
 - Budget variance highlights overspending areas
+
+## How to Use
+1. Download or clone this repository
+2. Open the .pbix file in Microsoft Power BI Desktop
+3. Load or refresh the dataset
+4. Navigate through report pages
+5. Interact with visuals and hover for details
 
 ## Screenshots
 
