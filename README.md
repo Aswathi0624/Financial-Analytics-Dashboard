@@ -1,4 +1,4 @@
-# Financial-Analytics-Dashboard
+# Financial&Budget-Analytics-Dashboard
 
 ## Project Overview
 
